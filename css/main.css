@@ -12,9 +12,23 @@ main {
 
 }
 
-a {
+a:link {
     color: #444;
+    text-decoration: none;
 }
+
+a:visited {
+    text-decoration: none;
+    color: #444;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #444;
+
+}
+
 
 header {
     background-image: url(../img/anakin.png);
