@@ -12,6 +12,10 @@ main {
 
 }
 
+a {
+    color: #444;
+}
+
 header {
     background-image: url(../img/anakin.png);
     height : 380px;
