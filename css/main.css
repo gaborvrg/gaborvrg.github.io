@@ -12,23 +12,6 @@ main {
 
 }
 
-a:link {
-    color: #444;
-    text-decoration: none;
-}
-
-a:visited {
-    text-decoration: none;
-    color: #444;
-
-}
-
-a:hover {
-    text-decoration: underline;
-    color: #444;
-
-}
-
 
 header {
     background-image: url(../img/anakin.png);
@@ -49,6 +32,25 @@ h1 {
     font-weight: lighter;
     line-height: 48px;
 }
+
+a:link {
+    color: #444;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #444;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #444;
+
+}
+
+
 
 span {
     font-size: 36px;
