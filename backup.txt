@@ -1,0 +1,58 @@
+<!-- 
+  <div class="main">
+    
+    <div class="aside">Aside
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde amet distinctio, sed hic praesentium, sequi quod error quasi asperiores alias.</p>
+    </div>
+
+    <div class="container">
+      <div class="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum maxime, nostrum, ullam in esse facilis modi voluptatibus cum quisquam rem. Numquam dolores illo hic nulla ipsa atque rem dolore accusamus.</div>
+
+      <div class="others">
+        <div class="skills one">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, dolor.</div>
+        <div class="skills two">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, deleniti.</div>
+        <div class="skills three">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, labore.</div>
+        <div class="skills four">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, distinctio.</div>
+      </div>
+    </div>
+
+  </div> -->
+
+
+  /*.main {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  max-width: 960px;
+  background: #eee
+}
+
+.aside {
+  align-items: center;
+  margin: auto;
+  background: #ffd62a;
+}
+
+.contanier {
+}
+
+.content {
+
+}
+
+.others {
+  
+}
+
+.one {
+
+}
+
+.two {
+}
+
+.three {
+}
+
+.four {
+}*/
